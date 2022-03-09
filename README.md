@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align=center>Some Stats</h1>
 <section align=center>
-  <img src='https://github-readme-stats.vercel.app/api?username=Rae-Kwon&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats'> 
+  <img src='https://github-readme-stats.vercel.app/api?username=Rae-Kwon&show_icons=true&theme=tokyonight'> 
 </section
 
 <h1 align=center>Languages</h1>
