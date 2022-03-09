@@ -32,3 +32,13 @@ Here are some ideas to get you started:
   <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'>
   <img src='https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white'>
 </section>
+
+<h1 align=center>Get In Touch</h1>
+<section align=center>
+  <a href='https://www.linkedin.com/in/rmjkwon/'>
+    <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'>
+  </a>
+  <a href='mailto:rkminjae@gmail.com?subject=Hi Richard this is from Github'>
+    <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'>
+  </a>
+</section>
